@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![NowPlaying](https://spotify-bar-xg8b.vercel.app/api/now-playing)
+
 <!--
 **michaelwilsonswyftx/michaelwilsonswyftx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
